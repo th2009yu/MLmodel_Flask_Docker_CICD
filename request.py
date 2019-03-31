@@ -1,7 +1,7 @@
 import requests
 
 url = 'http://0.0.0.0:5000/api'
-feature = [[6.7, 3.3, 5.7, 2.1]]
+feature = [[5.8, 4.0, 1.2, 0.2]]
 labels = {
     0: "setosa",
     1: "versicolor",
